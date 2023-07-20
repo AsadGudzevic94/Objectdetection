@@ -27,8 +27,7 @@ This is a Python-based project focused on real-time object detection using the Y
 
 Here are some screenshots of the program in action:
 
-![Screenshot 1](URL_TO_SCREENSHOT_1)
-Description for screenshot 1
+![Screenshot 1](ObjectDetection.jpg)
 
 ## Setup :wrench:
 
