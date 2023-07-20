@@ -22,6 +22,13 @@ This is a Python-based project focused on real-time object detection using the Y
 - 🎨 The project's modular design makes it easy to customize the button labels, appearance, and other aspects to suit different use cases and requirements.
 - 📷 With its real-time object detection capabilities and user-friendly interface, this project is well-suited for a variety of applications, including surveillance systems, object tracking, and interactive computer vision projects.
 - 💡 Each detected object is represented by a color-coded frame, allowing for easy visual identification and distinction between different objects.
+  
+## Screenshots :camera:
+
+Here are some screenshots of the program in action:
+
+![Screenshot 1](URL_TO_SCREENSHOT_1)
+Description for screenshot 1
 
 ## Setup :wrench:
 
